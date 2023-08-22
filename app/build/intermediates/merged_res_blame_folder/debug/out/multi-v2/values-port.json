@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.francisco.onepieceec03navarroinfante.app-mergeDebugResources-50:/values-port/values-port.xml",
+            "outputFile": "com.francisco.onepieceec03navarroinfante.app-mergeDebugResources-61:/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Panchito\\.gradle\\caches\\transforms-3\\9b59ab12ff2cf6ddfff3065340a0bf56\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\Panchito\\.gradle\\caches\\transforms-3\\000fb163983d781e83a4dad77020ca6f\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

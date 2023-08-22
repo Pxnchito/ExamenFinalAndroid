@@ -8,9 +8,10 @@
     <string name="second_fragment_label">Second Fragment</string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
-
+    <string name="web_cliente_id">109866834716444272255</string>
     <string name="lorem_ipsum">
     </string>
     <string name="title_activity_login">LoginActivity</string>
-    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_splash_screen">OnePiece</string>
+    <string name="title_activity_add_one_piece">AddOnePieceActivity</string>
 </resources>

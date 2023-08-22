@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
-    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -13,10 +19,15 @@
         android:theme="@style/Theme.OnePieceEC03NavarroInfante"
         tools:targetApi="31">
         <activity
+            android:name=".views.AddOnePieceActivity"
+            android:exported="false"
+            android:label="@string/title_activity_add_one_piece"
+            android:theme="@style/Theme.OnePieceEC03NavarroInfante" />
+        <activity
             android:name=".views.SplashScreenActivity"
             android:exported="true"
             android:label="@string/title_activity_splash_screen"
-            android:theme="@style/Theme.OnePieceEC03NavarroInfante" >
+            android:theme="@style/Theme.OnePieceEC03NavarroInfante">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -30,9 +41,7 @@
             android:theme="@style/Theme.OnePieceEC03NavarroInfante" />
         <activity
             android:name=".views.MainActivity"
-            android:exported="true">
-
-        </activity>
+            android:exported="true" />
     </application>
 
 </manifest>

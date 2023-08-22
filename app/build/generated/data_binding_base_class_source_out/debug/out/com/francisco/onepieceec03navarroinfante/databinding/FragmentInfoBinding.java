@@ -4,25 +4,42 @@ package com.francisco.onepieceec03navarroinfante.databinding;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.FrameLayout;
+import android.widget.Button;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.francisco.onepieceec03navarroinfante.R;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class FragmentInfoBinding implements ViewBinding {
   @NonNull
-  private final FrameLayout rootView;
+  private final ConstraintLayout rootView;
 
-  private FragmentInfoBinding(@NonNull FrameLayout rootView) {
+  @NonNull
+  public final Button btnCloseSession;
+
+  @NonNull
+  public final TextView texto1;
+
+  @NonNull
+  public final TextView txtMiNombre;
+
+  private FragmentInfoBinding(@NonNull ConstraintLayout rootView, @NonNull Button btnCloseSession,
+      @NonNull TextView texto1, @NonNull TextView txtMiNombre) {
     this.rootView = rootView;
+    this.btnCloseSession = btnCloseSession;
+    this.texto1 = texto1;
+    this.txtMiNombre = txtMiNombre;
   }
 
   @Override
   @NonNull
-  public FrameLayout getRoot() {
+  public ConstraintLayout getRoot() {
     return rootView;
   }
 
@@ -43,10 +60,32 @@ public final class FragmentInfoBinding implements ViewBinding {
 
   @NonNull
   public static FragmentInfoBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.btnCloseSession;
+      Button btnCloseSession = ViewBindings.findChildViewById(rootView, id);
+      if (btnCloseSession == null) {
+        break missingId;
+      }
 
-    return new FragmentInfoBinding((FrameLayout) rootView);
+      id = R.id.texto1;
+      TextView texto1 = ViewBindings.findChildViewById(rootView, id);
+      if (texto1 == null) {
+        break missingId;
+      }
+
+      id = R.id.txt_mi_nombre;
+      TextView txtMiNombre = ViewBindings.findChildViewById(rootView, id);
+      if (txtMiNombre == null) {
+        break missingId;
+      }
+
+      return new FragmentInfoBinding((ConstraintLayout) rootView, btnCloseSession, texto1,
+          txtMiNombre);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

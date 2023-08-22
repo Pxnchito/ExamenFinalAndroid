@@ -15,20 +15,25 @@ import kotlinx.coroutines.launch
 
 
 class OnePieceListViewModel: ViewModel() {
-    private val repository : OnePieceRepository = OnePieceRepository()
-    private val onepieceL = MutableLiveData<List<OnePiece>?>()
-    val onepieceList :LiveData<List<OnePiece>?>
-        get()=onepieceL
-
+     val onepieceList = MutableLiveData<List<OnePiece>?>()
+     val repository:OnePieceRepository = OnePieceRepository()
+    val cerveceriaList: LiveData<List<OnePiece>?>
+        get() = onepieceList
+    fun getOnePieceList(){
+        val data = getData()
+        onepieceList.value= data
+    }
+    ////CORREGIR
     fun getOnePieceFromService(){
-        GlobalScope.launch(Dispatchers.IO) {
+        viewModelScope.launch(Dispatchers.IO){
+            val response = repository.getOnePieces()
+            when(response){
 
-            when(val response = repository.getOnePieces() ){
                 is ApiResponse.Error -> {
-
+                    //Colocar error
                 }
-                is ApiResponse.Success ->{
-                    onepieceL.postValue(response.data)
+                is ApiResponse.Success -> {
+                    onepieceList.postValue(response.data)
                 }
             }
         }

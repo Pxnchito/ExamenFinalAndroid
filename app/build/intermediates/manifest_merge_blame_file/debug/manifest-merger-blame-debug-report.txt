@@ -11,177 +11,398 @@
 9-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:4:5-66
-11-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:4:22-64
-12
-13    <permission
-13-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-14        android:name="com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
-14-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-15        android:protectionLevel="signature" />
-15-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
-16
-17    <uses-permission android:name="com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
-17-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-17-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
-18
-19    <application
-19-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:5:5-36:19
-20        android:allowBackup="true"
-20-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:6:9-35
-21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-21-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
-22        android:dataExtractionRules="@xml/data_extraction_rules"
-22-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:7:9-65
-23        android:debuggable="true"
-24        android:extractNativeLibs="false"
-25        android:fullBackupContent="@xml/backup_rules"
-25-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:8:9-54
-26        android:icon="@mipmap/ic_launcher"
-26-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:9:9-43
-27        android:label="@string/app_name"
-27-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:10:9-41
-28        android:roundIcon="@mipmap/ic_launcher_round"
-28-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:11:9-54
-29        android:supportsRtl="true"
-29-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:12:9-35
-30        android:testOnly="true"
-31        android:theme="@style/Theme.OnePieceEC03NavarroInfante" >
-31-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:13:9-64
-32        <activity
-32-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:15:9-25:20
-33            android:name="com.francisco.onepieceec03navarroinfante.views.SplashScreenActivity"
-33-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:16:13-55
-34            android:exported="true"
-34-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:17:13-36
-35            android:label="@string/title_activity_splash_screen"
-35-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:18:13-65
-36            android:theme="@style/Theme.OnePieceEC03NavarroInfante" >
-36-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:19:13-68
-37            <intent-filter>
-37-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:20:13-24:29
-38                <action android:name="android.intent.action.MAIN" />
-38-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:21:17-69
-38-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:21:25-66
-39
-40                <category android:name="android.intent.category.LAUNCHER" />
-40-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:23:17-77
-40-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:23:27-74
-41            </intent-filter>
-42        </activity>
-43        <activity
-43-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:26:9-30:71
-44            android:name="com.francisco.onepieceec03navarroinfante.views.LoginActivity"
-44-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:27:13-48
-45            android:exported="false"
-45-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:28:13-37
-46            android:label="@string/title_activity_login"
-46-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:29:13-57
-47            android:theme="@style/Theme.OnePieceEC03NavarroInfante" />
-47-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:30:13-68
-48        <activity
-48-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:31:9-35:20
-49            android:name="com.francisco.onepieceec03navarroinfante.views.MainActivity"
-49-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:32:13-47
-50            android:exported="true" >
-50-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:33:13-36
-51        </activity>
-52
-53        <provider
-53-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-54            android:name="androidx.startup.InitializationProvider"
-54-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-55            android:authorities="com.francisco.onepieceec03navarroinfante.androidx-startup"
-55-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-56            android:exported="false" >
-56-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-57            <meta-data
-57-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-58                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-58-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-59                android:value="androidx.startup" />
-59-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-60            <meta-data
-60-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-61                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-61-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-62                android:value="androidx.startup" />
-62-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-63            <meta-data
-63-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-64                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
-64-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-65                android:value="androidx.startup" />
-65-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-66        </provider>
-67
-68        <meta-data
-68-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-69            android:name="com.google.android.gms.version"
-69-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-70            android:value="@integer/google_play_services_version" />
-70-->[com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
+11-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+12-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:6:5-80
+12-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:6:22-77
+13    <uses-permission
+13-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:7:5-9:38
+14        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+14-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:8:9-65
+15        android:maxSdkVersion="32" />
+15-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:9:9-35
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
+16-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+21
+22    <queries>
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+23
+24        <!-- Needs to be explicitly declared on Android R+ -->
+25        <package android:name="com.google.android.apps.maps" />
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:11:5-45:19
+35        android:allowBackup="true"
+35-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:12:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+37        android:dataExtractionRules="@xml/data_extraction_rules"
+37-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:13:9-65
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:fullBackupContent="@xml/backup_rules"
+40-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:14:9-54
+41        android:icon="@mipmap/ic_launcher"
+41-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:15:9-43
+42        android:label="@string/app_name"
+42-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:16:9-41
+43        android:roundIcon="@mipmap/ic_launcher_round"
+43-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:17:9-54
+44        android:supportsRtl="true"
+44-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:18:9-35
+45        android:testOnly="true"
+46        android:theme="@style/Theme.OnePieceEC03NavarroInfante" >
+46-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:19:9-64
+47        <activity
+47-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:21:9-25:71
+48            android:name="com.francisco.onepieceec03navarroinfante.views.AddOnePieceActivity"
+48-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:22:13-54
+49            android:exported="false"
+49-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:23:13-37
+50            android:label="@string/title_activity_add_one_piece"
+50-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:24:13-65
+51            android:theme="@style/Theme.OnePieceEC03NavarroInfante" />
+51-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:25:13-68
+52        <activity
+52-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:26:9-36:20
+53            android:name="com.francisco.onepieceec03navarroinfante.views.SplashScreenActivity"
+53-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:27:13-55
+54            android:exported="true"
+54-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:28:13-36
+55            android:label="@string/title_activity_splash_screen"
+55-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:29:13-65
+56            android:theme="@style/Theme.OnePieceEC03NavarroInfante" >
+56-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:30:13-68
+57            <intent-filter>
+57-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:31:13-35:29
+58                <action android:name="android.intent.action.MAIN" />
+58-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:32:17-69
+58-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:32:25-66
+59
+60                <category android:name="android.intent.category.LAUNCHER" />
+60-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:34:17-77
+60-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:34:27-74
+61            </intent-filter>
+62        </activity>
+63        <activity
+63-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:37:9-41:71
+64            android:name="com.francisco.onepieceec03navarroinfante.views.LoginActivity"
+64-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:38:13-48
+65            android:exported="false"
+65-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:39:13-37
+66            android:label="@string/title_activity_login"
+66-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:40:13-57
+67            android:theme="@style/Theme.OnePieceEC03NavarroInfante" />
+67-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:41:13-68
+68        <activity
+68-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:42:9-44:39
+69            android:name="com.francisco.onepieceec03navarroinfante.views.MainActivity"
+69-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:43:13-47
+70            android:exported="true" />
+70-->C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:44:13-36
 71
-72        <uses-library
-72-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-73            android:name="androidx.window.extensions"
-73-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-74            android:required="false" />
-74-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-75        <uses-library
-75-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-76            android:name="androidx.window.sidecar"
-76-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-77            android:required="false" />
-77-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-78
-79        <receiver
-79-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-80            android:name="androidx.profileinstaller.ProfileInstallReceiver"
-80-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-81            android:directBootAware="false"
-81-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
-82            android:enabled="true"
-82-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-83            android:exported="true"
-83-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-84            android:permission="android.permission.DUMP" >
-84-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
-85            <intent-filter>
-85-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-86                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-86-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-87            </intent-filter>
-88            <intent-filter>
-88-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-89                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-89-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-90            </intent-filter>
-91            <intent-filter>
-91-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-92                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-92-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-93            </intent-filter>
-94            <intent-filter>
-94-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-95                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-95-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-96            </intent-filter>
-97        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
-98        <activity
-98-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:14:9-18:65
-99            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
-99-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:15:13-93
-100            android:exported="false"
-100-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:16:13-37
-101            android:stateNotNeeded="true"
-101-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:17:13-42
-102            android:theme="@style/Theme.PlayCore.Transparent" />
-102-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:18:13-62
-103    </application>
-104
-105</manifest>
+72        <service
+72-->[androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
+73            android:name="androidx.room.MultiInstanceInvalidationService"
+73-->[androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+74            android:directBootAware="true"
+74-->[androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
+75            android:exported="false" />
+75-->[androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+76        <service
+76-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:11:9-17:19
+77            android:name="com.google.firebase.components.ComponentDiscoveryService"
+77-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:12:13-84
+78            android:directBootAware="true"
+78-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
+79            android:exported="false" >
+79-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:13:13-37
+80            <meta-data
+80-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
+81                android:name="com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar"
+81-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:15:17-122
+82                android:value="com.google.firebase.components.ComponentRegistrar" />
+82-->[com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:16:17-82
+83            <meta-data
+83-->[com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:14:13-16:85
+84                android:name="com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar"
+84-->[com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:15:17-126
+85                android:value="com.google.firebase.components.ComponentRegistrar" />
+85-->[com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:16:17-82
+86            <meta-data
+86-->[com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:11:13-13:85
+87                android:name="com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar"
+87-->[com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:12:17-116
+88                android:value="com.google.firebase.components.ComponentRegistrar" />
+88-->[com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:13:17-82
+89            <meta-data
+89-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+90                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar"
+90-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+91                android:value="com.google.firebase.components.ComponentRegistrar" />
+91-->[com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+92            <meta-data
+92-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
+93                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+93-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
+94                android:value="com.google.firebase.components.ComponentRegistrar" />
+94-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
+95            <meta-data
+95-->[com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:19:13-21:85
+96                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+96-->[com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:20:17-111
+97                android:value="com.google.firebase.components.ComponentRegistrar" />
+97-->[com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:21:17-82
+98            <meta-data
+98-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:32:13-34:85
+99                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+99-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:33:17-107
+100                android:value="com.google.firebase.components.ComponentRegistrar" />
+100-->[com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:34:17-82
+101        </service>
+102
+103        <activity
+103-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
+104            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+104-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
+105            android:excludeFromRecents="true"
+105-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
+106            android:exported="true"
+106-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
+107            android:launchMode="singleTask"
+107-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
+108            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+108-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
+109            <intent-filter>
+109-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
+110                <action android:name="android.intent.action.VIEW" />
+110-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+110-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+111
+112                <category android:name="android.intent.category.DEFAULT" />
+112-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+112-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+113                <category android:name="android.intent.category.BROWSABLE" />
+113-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+113-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+114
+115                <data
+115-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+116                    android:host="firebase.auth"
+116-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+117                    android:path="/"
+117-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+118                    android:scheme="genericidp" />
+118-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+119            </intent-filter>
+120        </activity>
+121        <activity
+121-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
+122            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+122-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
+123            android:excludeFromRecents="true"
+123-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
+124            android:exported="true"
+124-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
+125            android:launchMode="singleTask"
+125-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
+126            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+126-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
+127            <intent-filter>
+127-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
+128                <action android:name="android.intent.action.VIEW" />
+128-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+128-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+129
+130                <category android:name="android.intent.category.DEFAULT" />
+130-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+130-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+131                <category android:name="android.intent.category.BROWSABLE" />
+131-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+131-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+132
+133                <data
+133-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+134                    android:host="firebase.auth"
+134-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+135                    android:path="/"
+135-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+136                    android:scheme="recaptcha" />
+136-->[com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+137            </intent-filter>
+138        </activity> <!-- Needs to be explicitly declared on P+ -->
+139        <uses-library
+139-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+140            android:name="org.apache.http.legacy"
+140-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+141            android:required="false" />
+141-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+142
+143        <activity
+143-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:23:9-27:75
+144            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+144-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:24:13-93
+145            android:excludeFromRecents="true"
+145-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:25:13-46
+146            android:exported="false"
+146-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:26:13-37
+147            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+147-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:27:13-72
+148        <!--
+149            Service handling Google Sign-In user revocation. For apps that do not integrate with
+150            Google Sign-In, this service will never be started.
+151        -->
+152        <service
+152-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:33:9-37:51
+153            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+153-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:34:13-89
+154            android:exported="true"
+154-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:35:13-36
+155            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+155-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:36:13-107
+156            android:visibleToInstantApps="true" />
+156-->[com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:37:13-48
+157
+158        <activity
+158-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+159            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+159-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+160            android:exported="false"
+160-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+161            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+161-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+162
+163        <provider
+163-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+164            android:name="com.google.firebase.provider.FirebaseInitProvider"
+164-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+165            android:authorities="com.francisco.onepieceec03navarroinfante.firebaseinitprovider"
+165-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+166            android:directBootAware="true"
+166-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+167            android:exported="false"
+167-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+168            android:initOrder="100" />
+168-->[com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+169
+170        <meta-data
+170-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+171            android:name="com.google.android.gms.version"
+171-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+172            android:value="@integer/google_play_services_version" />
+172-->[com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+173
+174        <provider
+174-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+175            android:name="androidx.startup.InitializationProvider"
+175-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+176            android:authorities="com.francisco.onepieceec03navarroinfante.androidx-startup"
+176-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+177            android:exported="false" >
+177-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+178            <meta-data
+178-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+179                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+179-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+180                android:value="androidx.startup" />
+180-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+181            <meta-data
+181-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+182                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+182-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+183                android:value="androidx.startup" />
+183-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+184            <meta-data
+184-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+185                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+185-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+186                android:value="androidx.startup" />
+186-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+187        </provider>
+188
+189        <uses-library
+189-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+190            android:name="androidx.window.extensions"
+190-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+191            android:required="false" />
+191-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+192        <uses-library
+192-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+193            android:name="androidx.window.sidecar"
+193-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+194            android:required="false" />
+194-->[androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+195
+196        <receiver
+196-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+197            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+197-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+198            android:directBootAware="false"
+198-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+199            android:enabled="true"
+199-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+200            android:exported="true"
+200-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+201            android:permission="android.permission.DUMP" >
+201-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+202            <intent-filter>
+202-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+203                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+203-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+203-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+204            </intent-filter>
+205            <intent-filter>
+205-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+206                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+206-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+206-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+207            </intent-filter>
+208            <intent-filter>
+208-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+209                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+209-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+209-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+210            </intent-filter>
+211            <intent-filter>
+211-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+212                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+212-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+212-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+213            </intent-filter>
+214        </receiver> <!-- The activities will be merged into the manifest of the hosting app. -->
+215        <activity
+215-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:14:9-18:65
+216            android:name="com.google.android.play.core.common.PlayCoreDialogWrapperActivity"
+216-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:15:13-93
+217            android:exported="false"
+217-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:16:13-37
+218            android:stateNotNeeded="true"
+218-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:17:13-42
+219            android:theme="@style/Theme.PlayCore.Transparent" />
+219-->[com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:18:13-62
+220    </application>
+221
+222</manifest>

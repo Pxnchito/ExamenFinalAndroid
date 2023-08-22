@@ -1,154 +1,170 @@
 [
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_fragment_one_piece_list_view_model.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\fragment_one_piece_list_view_model.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-xxxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\navigation_nav_graph3.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\navigation\\nav_graph3.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-xhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\navigation_onepiece_navigation.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\navigation\\onepiece_navigation.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_arco1.jpg.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_arco1.jpg"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_fragment_firebase_view_model.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\fragment_firebase_view_model.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_ic_list.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\ic_list.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_ic_arco1.jpg.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\ic_arco1.jpg"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_info.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_info.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\menu_menu_onepiece.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\menu\\menu_onepiece.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_fragment_one_piece_favorite.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\fragment_one_piece_favorite.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.francisco.onepieceec03navarroinfante.app-merged_res-63:/layout_activity_add_one_piece.xml.flat",
+        "source": "com.francisco.onepieceec03navarroinfante.app-main-65:/layout/activity_add_one_piece.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_fragment_one_piece_list.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\fragment_one_piece_list.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_fragment_one_piece_list_view_model.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\fragment_one_piece_list_view_model.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_fondo.jpg.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_fondo.jpg"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\navigation_nav_graph2.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\navigation\\nav_graph2.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-xxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_ic_favorite.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\ic_favorite.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_fragment_info.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\fragment_info.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_ic_fondo.jpg.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\ic_fondo.jpg"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_ic_info.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\ic_info.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_firebase_add.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_firebase_add.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_edit_24.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_edit_24.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\navigation\\nav_graph.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_google.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_google.xml"
     },
     {
-        "merged": "com.francisco.onepieceec03navarroinfante.app-merged_res-52:/layout_item_onepiece.xml.flat",
-        "source": "com.francisco.onepieceec03navarroinfante.app-main-54:/layout/item_onepiece.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_activity_add_one_piece.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\activity_add_one_piece.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_fragment_one_piece_detail.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\fragment_one_piece_detail.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\navigation_onepiece_navigation.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\navigation\\onepiece_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_fragment_one_piece_detail.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\fragment_one_piece_detail.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_favorite.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_favorite.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_detalle_logo.jpg.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_detalle_logo.jpg"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_item_onepiece.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\item_onepiece.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_activity_splash_screen.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\activity_splash_screen.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\menu_menu_onepiece.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\menu\\menu_onepiece.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_fragment_one_piece_list.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\fragment_one_piece_list.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_item_onepiece_detail_background.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\item_onepiece_detail_background.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-hdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\drawable_ic_logo_one_piece_login.png.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\drawable\\ic_logo_one_piece_login.png"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_list.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_list.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_fragment_one_piece_favorite.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\fragment_one_piece_favorite.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-hdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_item_onepiece.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\item_onepiece.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_fragment_firebase.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\fragment_firebase.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-52:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-54:\\layout\\activity_login.xml"
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_fragment_info.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\fragment_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_item_onepiece_detail_background.xml.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\item_onepiece_detail_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-merged_res-63:\\drawable_ic_logo_one_piece_login.png.flat",
+        "source": "C:\\Users\\Panchito\\.gradle\\daemon\\8.0\\com.francisco.onepieceec03navarroinfante.app-main-65:\\drawable\\ic_logo_one_piece_login.png"
     }
 ]

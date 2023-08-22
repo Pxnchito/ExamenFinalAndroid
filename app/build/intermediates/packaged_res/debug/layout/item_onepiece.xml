@@ -54,7 +54,6 @@
                 android:layout_height="wrap_content"
                 android:textSize="24dp"
                 android:textStyle="bold"
-
                 android:ellipsize="end"
                 tools:text="Saga Guerra de Marineford"/>
             <TextView
@@ -62,9 +61,12 @@
                 android:layout_marginTop="16dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:textStyle="bold"
                 android:maxLines="3"
+                android:textColor="@color/md_theme_light_surfaceTint"
                 android:ellipsize="end"
                 android:text="Descripción"/>
+
 
             <TextView
                 android:id="@+id/txt_descripcion"
@@ -72,11 +74,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="16dp"
-                android:textStyle="bold"
                 android:maxLines="10"
-                android:textColor="@color/md_theme_light_surfaceTint"
+
                 android:ellipsize="end"
                 tools:text="----------"/>
+
+
 
         </LinearLayout>
 

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.francisco.onepieceec03navarroinfante.app-mergeDebugResources-50:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
+            "outputFile": "com.francisco.onepieceec03navarroinfante.app-mergeDebugResources-61:/values-h550dp-port-v13/values-h550dp-port-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Panchito\\.gradle\\caches\\transforms-3\\2694d329373262e1d5d07235f1421bdd\\transformed\\material-1.7.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
+                    "source": "C:\\Users\\Panchito\\.gradle\\caches\\transforms-3\\10b0e72c7e6f7af6e5490f7196ffbbd5\\transformed\\material-1.5.0\\res\\values-h550dp-port-v13\\values-h550dp-port-v13.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

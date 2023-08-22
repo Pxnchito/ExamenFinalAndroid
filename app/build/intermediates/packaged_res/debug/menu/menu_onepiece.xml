@@ -12,10 +12,17 @@
         android:enabled="true"
         android:icon="@drawable/ic_favorite"
         android:title="Favoritos" />
+    <item
+        android:id="@+id/firebaseFragment"
+        android:enabled="true"
+        android:icon="@drawable/ic_firebase_add"
+        android:title="Firebase" />
 
     <item
         android:id="@+id/infoFragment"
         android:enabled="true"
         android:icon="@drawable/ic_info"
         android:title="Info" />
+
+
 </menu>

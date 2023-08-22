@@ -1,330 +1,472 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
-MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\3d4b740dab056db995d284883c54aafa\transformed\viewbinding-8.0.2\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f9dc74897a96c49e9c55fb64daec7c2\transformed\navigation-common-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\dd38949697d6a4695e8da2226cc631a6\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\22b41efd0b5ae1020c9e6050bd407c14\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6c2507a3aaca15ed4b3a49bb2ea6a74d\transformed\navigation-dynamic-features-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6331691a62b685217fe5f0f80e4f0390\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\ba7b8a380ff25675e5c8a25b32d06f5c\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6e5fee21c305a319bc9601bb1abc690c\transformed\navigation-dynamic-features-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\ae67b71d0d424c6ce246f0eb395724fd\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\46f52e5a3b3f3a19cb15859bd9bcbf62\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\40a5ac049582fc2b44b9af9b2060a84a\transformed\navigation-ui-2.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\2694d329373262e1d5d07235f1421bdd\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\1f670a95ccfade1cba086a4de2f389cc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\c5b398fecfb9f99ff9c5c1177a475c6e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\9b59ab12ff2cf6ddfff3065340a0bf56\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\fcfe10e7a781411b84014d8bff097533\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\01a60c1758118a4c4a2750c5eef44e0b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\d3ad1e935aa2270e6e7ae55cd7752b2a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0f5e832b92da87900caaa3efee8dcecc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\2afd19c1fe13c3b279a0a5e16eb51bc2\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\94f6b4c008ef045c4f2e0f86e0699927\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\686a06c38898cab4c33f1f40d64b3174\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\81cb794477e8186d43ca197869447d56\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\606af5b396f9428e8d62e29f7dc21631\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\f9dad01cdc4336a25976c010e56ba601\transformed\feature-delivery-2.0.1\AndroidManifest.xml:2:1-14:12
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\285e8a489064d86ba665bc4f2d4aa655\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
-MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\65ba9d66f598720d2be26bb8971ddbbb\transformed\fragment-1.6.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\cc937eadaeb0c0ffbb379211eb47c257\transformed\activity-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\fced78abef1e06cc44b90dc0da6f6d06\transformed\activity-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\794dac8a66afe9dab47f32e168925d5a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\f54477f88718935e5f0b52b2605c3ca4\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f6980ce487910f240a6ae651ca72cacf\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0350c78cb71081ad1e631d25f3d152cd\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\eda6d36faa4507f2610db2f8b914146f\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\b5c086ed3282cc462cf16e5f3a2a39d3\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\6c7d48252c63929085f986690fe2699d\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\ddb0b65a15277ea1a5f51750eec31537\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\da569f0a8c42bc12d35a9d8ebe7db325\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\ae9762d9e5cdf295faf747b9dcae48ea\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\51030ad6ab13d28be0df59ede82a6e0d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\8bb24e062508142a0e6cf6d42e8c145c\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\226f619b947b8e53de930e0b9ea42bd5\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\cba0fb151d6e0c13415ea357e473a68a\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\c5ef500dfe6cc12b96014373aa562cda\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5c64e87b3595ec03a9c7fe697b007d2a\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\53c3ab4a91e7e458cd2854d7fba34a2e\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\6edc7de7c7b6bf424298dc179471fea1\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.ui:ui-text-android:1.0.0-alpha06] C:\Users\Panchito\.gradle\caches\transforms-3\d8589cb800b0b113c2db6ab46a029bbe\transformed\ui-text-android-1.0.0-alpha06\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\7f8f2754b6f74961048ee3e9d4606b0b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\2c1521edf2dcac9fbf1437a2d73e6dba\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\264f05caa4925dd55f93c11745eb0a38\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\057efaa34816c573f085aeaf9a03691f\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\892936ed6ea31511edcbd4b1bee53e2a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\a408ce5bbc5925fdd944e51a0fd246aa\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\735e150b6083f773f323ff3ac5df7af5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\e54e2755581eb3d884eca4775b1fc8f3\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\ac51231769d68856b80594aced794b1a\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\5b15d47518f2a809ea496f6d700addb1\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\330486b78dc7c88a659f932492389125\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b74cb5652a2f2ead9a792f2de7644b6\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\c5ec658faf2b98f812e539eacbdac157\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
-MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
-INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\26da4182a57fc31d35c421be6a35fbcb\transformed\viewbinding-7.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.room:room-ktx:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\1d7ed1e0cea8575759309e463697affa\transformed\room-ktx-2.5.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Panchito\.gradle\caches\transforms-3\4c849d9ce7e5d736d09aa08521d1ab69\transformed\recaptcha-18.1.2\AndroidManifest.xml:2:1-10:12
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\fb0afb6a75a06e1bfd2d6edd7c3c4b3b\transformed\navigation-common-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\1828daf069913e52d4d48263ff105b1f\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\a3ceb8dd58680f35dfeb1c8e2ef428aa\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\c0f6a1d26bfd2624d34183222bea4912\transformed\navigation-dynamic-features-runtime-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\8b44252560c4907ddc56a7201528c477\transformed\navigation-ui-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\0191320257d0eb3a5e8b78e2edbfc35a\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\2027838558edd11b755eeaf0b22699ec\transformed\navigation-dynamic-features-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\15658812c498918db81455a44d48482a\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6cfbe24aa7033ddcc72ef2541838878b\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\3656d76f44243ece5e99f21e4c9986dc\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Panchito\.gradle\caches\transforms-3\10b0e72c7e6f7af6e5490f7196ffbbd5\transformed\material-1.5.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\e8e211bc3f2ce1d6df09627ab779524f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\225624f41345d7fc7aba25bfd0283a0f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\000fb163983d781e83a4dad77020ca6f\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\8e69d94a4b19897d5797b0494de1a9a0\transformed\glide-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\1fee5350b38e0d46af720b1e5ca0bc28\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\074ed2611768c38e79ec6551b581205d\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Panchito\.gradle\caches\transforms-3\c864f979360dc91c2e48b5fae9d09efb\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\14c1d58ae13111f97eaff2e53c038731\transformed\play-services-fido-20.0.1\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\fd4215b040864d73098329a803b7201e\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\c3700d1dd588b4daffd48964c24c2638\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\484b85ab2f4d13260b928ae2f604934e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\4147f2c5cf7380c2b4dda7e5d64381c7\transformed\feature-delivery-2.0.1\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\976cfcde20abe91aad73b975f8bcacdf\transformed\integrity-1.1.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\e4986de5b1e992f42ca7280c7dfc68d8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\9c642d51b750d2147f9e222265706e60\transformed\fragment-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\aad80de0556340e1219926f3274795e2\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5570d585e42e536b71eedb457011becd\transformed\activity-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\e0988cd46ec655da642991b51f784bce\transformed\activity-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\94ea63620b1a4a139645084ac8dbff4e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\04cfddc479fbff1995420da121ae98c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\4fdd85a1992216cf81a3e22ce48d8cfe\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\de2c4f43d09784245b842a7f71d50067\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\cda6af7c9721c9bb5b34a08482e3ceb2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\382800e4bc9dcd55ef87c548611aa1d6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\7dc75adb4b0ee53106de3b95f9c466a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\bc3f7152c8fc7170e3a4b4eb77c32f97\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\f41a24245079de1b24fe8325a5ca3902\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\a8e4a137c905c37fd9b934b00cfc432f\transformed\savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d41f227105474163887c55b13369e41c\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\83d07a8b1e755b91c8ed4416c8e44209\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\38c88b04f7630ec066351bf164237d29\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\2b8f606f0c8359817836ce23856d6ad2\transformed\core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\f76c197d65fb150ef0c93c4ece04454d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\39194a1845b651f8d42dbe49715a06fc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\058849bd48decdc1196aec82876397ce\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\14b3d15df1979be3c9f28935f47b6485\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Panchito\.gradle\caches\transforms-3\57b6741d9a36c4744a9b5e8f0a51c38e\transformed\browser-1.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\1cfb4158b1b1967c90f30e64817d0f8e\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\7fcef40acc887185dd696012b36474cf\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\cad9a537cca0652734ceb1af21009a97\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5cc29b99db4b4047ad02773ec3caed05\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\71c80753f80217fe8b23d4806422e8c0\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\96a378c70e54ed8f0a5dcab148125f7a\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\72b18e0d31c37bd8b955acb562c846a3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\cac1340c2c1e4d4b0f9ae12c0167e5e9\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Panchito\.gradle\caches\transforms-3\67b0ccc633d7b5dd8698373ee00846ff\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Panchito\.gradle\caches\transforms-3\856fd2ca0960edfbf1d3176c53f89434\transformed\sqlite-2.3.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\e98bbf5d67b061594937df5bd54f4393\transformed\firebase-components-17.1.0\AndroidManifest.xml:15:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\29c2edad83194488c2337ef06624c2a2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\a1ab34759523d92e1a6f289634d16ad0\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\fbf49b11da9f974912cf97c4b3ee311c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\52a88dcf8b199f89eb7ee1e07765c059\transformed\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\2bb77b4d61ce2d1f0f302d783342df86\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f587aee147593f60be39e07e4423c7c3\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\b34b5cdddc91bfee913f82a505b7f9d7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\8b0cd0262095823c58b9a531bfce5d93\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0fe7b6a9f663ee2979387cda05621cba\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b12818cb397cd8a7d7be9e166ac07ed\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\e26ebca2627271cfc3b26aeeeeba4851\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Panchito\.gradle\caches\transforms-3\b90a9d522454d6ee82605864bea570e2\transformed\grpc-android-1.52.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\082ac48515e4bd9a9bf2ca3bc53fa84b\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
 	package
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 	xmlns:tools
 		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-38:12
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:1-47:12
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:4:5-66
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:25:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Panchito\.gradle\caches\transforms-3\4c849d9ce7e5d736d09aa08521d1ab69\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Panchito\.gradle\caches\transforms-3\4c849d9ce7e5d736d09aa08521d1ab69\transformed\recaptcha-18.1.2\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:26:5-67
 	android:name
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:4:22-64
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:7:5-9:38
+	android:maxSdkVersion
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:9:9-35
+	android:name
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:8:9-65
 application
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:5:5-36:19
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\2694d329373262e1d5d07235f1421bdd\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\2694d329373262e1d5d07235f1421bdd\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\1f670a95ccfade1cba086a4de2f389cc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\1f670a95ccfade1cba086a4de2f389cc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
-MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\2afd19c1fe13c3b279a0a5e16eb51bc2\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\2afd19c1fe13c3b279a0a5e16eb51bc2\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
-MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\f9dad01cdc4336a25976c010e56ba601\transformed\feature-delivery-2.0.1\AndroidManifest.xml:11:5-12:19
-MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\f9dad01cdc4336a25976c010e56ba601\transformed\feature-delivery-2.0.1\AndroidManifest.xml:11:5-12:19
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\285e8a489064d86ba665bc4f2d4aa655\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\285e8a489064d86ba665bc4f2d4aa655\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
-MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
-MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\264f05caa4925dd55f93c11745eb0a38\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\264f05caa4925dd55f93c11745eb0a38\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\892936ed6ea31511edcbd4b1bee53e2a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\892936ed6ea31511edcbd4b1bee53e2a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\735e150b6083f773f323ff3ac5df7af5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\735e150b6083f773f323ff3ac5df7af5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
-MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:11:5-19:19
-MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:11:5-19:19
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:11:5-45:19
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:23:5-29:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:7:5-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:10:5-18:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Panchito\.gradle\caches\transforms-3\10b0e72c7e6f7af6e5490f7196ffbbd5\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Panchito\.gradle\caches\transforms-3\10b0e72c7e6f7af6e5490f7196ffbbd5\transformed\material-1.5.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\e8e211bc3f2ce1d6df09627ab779524f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\e8e211bc3f2ce1d6df09627ab779524f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:22:5-38:19
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\8e69d94a4b19897d5797b0494de1a9a0\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\8e69d94a4b19897d5797b0494de1a9a0\transformed\glide-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\14c1d58ae13111f97eaff2e53c038731\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\14c1d58ae13111f97eaff2e53c038731\transformed\play-services-fido-20.0.1\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\c3700d1dd588b4daffd48964c24c2638\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\c3700d1dd588b4daffd48964c24c2638\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\484b85ab2f4d13260b928ae2f604934e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\484b85ab2f4d13260b928ae2f604934e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\4147f2c5cf7380c2b4dda7e5d64381c7\transformed\feature-delivery-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\4147f2c5cf7380c2b4dda7e5d64381c7\transformed\feature-delivery-2.0.1\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\976cfcde20abe91aad73b975f8bcacdf\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\976cfcde20abe91aad73b975f8bcacdf\transformed\integrity-1.1.0\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\e4986de5b1e992f42ca7280c7dfc68d8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\e4986de5b1e992f42ca7280c7dfc68d8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\29c2edad83194488c2337ef06624c2a2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\29c2edad83194488c2337ef06624c2a2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\fbf49b11da9f974912cf97c4b3ee311c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\fbf49b11da9f974912cf97c4b3ee311c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\2bb77b4d61ce2d1f0f302d783342df86\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\2bb77b4d61ce2d1f0f302d783342df86\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:11:5-19:19
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:11:5-19:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:18:9-35
 	android:label
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:16:9-41
 	android:fullBackupContent
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:8:9-54
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:14:9-54
 	android:roundIcon
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:17:9-54
 	tools:targetApi
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:14:9-29
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:20:9-29
 	android:icon
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:15:9-43
 	android:allowBackup
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:13:9-64
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:19:9-64
 	android:dataExtractionRules
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:7:9-65
-activity#com.francisco.onepieceec03navarroinfante.views.SplashScreenActivity
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:15:9-25:20
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:13:9-65
+activity#com.francisco.onepieceec03navarroinfante.views.AddOnePieceActivity
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:21:9-25:71
 	android:label
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:18:13-65
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:24:13-65
 	android:exported
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:17:13-36
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:23:13-37
 	android:theme
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:19:13-68
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:25:13-68
 	android:name
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:16:13-55
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:20:13-24:29
-action#android.intent.action.MAIN
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:21:17-69
-	android:name
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:21:25-66
-category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:23:17-77
-	android:name
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:23:27-74
-activity#com.francisco.onepieceec03navarroinfante.views.LoginActivity
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:26:9-30:71
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:22:13-54
+activity#com.francisco.onepieceec03navarroinfante.views.SplashScreenActivity
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:26:9-36:20
 	android:label
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:29:13-57
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:29:13-65
 	android:exported
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:28:13-37
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:28:13-36
 	android:theme
 		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:30:13-68
 	android:name
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:27:13-48
-activity#com.francisco.onepieceec03navarroinfante.views.MainActivity
-ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:31:9-35:20
-	android:exported
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:33:13-36
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:27:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:32:17-69
 	android:name
-		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:32:13-47
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:34:27-74
+activity#com.francisco.onepieceec03navarroinfante.views.LoginActivity
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:37:9-41:71
+	android:label
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:40:13-57
+	android:exported
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:39:13-37
+	android:theme
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:41:13-68
+	android:name
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:38:13-48
+activity#com.francisco.onepieceec03navarroinfante.views.MainActivity
+ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:42:9-44:39
+	android:exported
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml:43:13-47
 uses-sdk
 INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
-MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\3d4b740dab056db995d284883c54aafa\transformed\viewbinding-8.0.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.databinding:viewbinding:8.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\3d4b740dab056db995d284883c54aafa\transformed\viewbinding-8.0.2\AndroidManifest.xml:5:5-44
-MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f9dc74897a96c49e9c55fb64daec7c2\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\8f9dc74897a96c49e9c55fb64daec7c2\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\dd38949697d6a4695e8da2226cc631a6\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\dd38949697d6a4695e8da2226cc631a6\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\22b41efd0b5ae1020c9e6050bd407c14\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\22b41efd0b5ae1020c9e6050bd407c14\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6c2507a3aaca15ed4b3a49bb2ea6a74d\transformed\navigation-dynamic-features-runtime-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6c2507a3aaca15ed4b3a49bb2ea6a74d\transformed\navigation-dynamic-features-runtime-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6331691a62b685217fe5f0f80e4f0390\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6331691a62b685217fe5f0f80e4f0390\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\ba7b8a380ff25675e5c8a25b32d06f5c\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\ba7b8a380ff25675e5c8a25b32d06f5c\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6e5fee21c305a319bc9601bb1abc690c\transformed\navigation-dynamic-features-fragment-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6e5fee21c305a319bc9601bb1abc690c\transformed\navigation-dynamic-features-fragment-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\ae67b71d0d424c6ce246f0eb395724fd\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\ae67b71d0d424c6ce246f0eb395724fd\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\46f52e5a3b3f3a19cb15859bd9bcbf62\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\46f52e5a3b3f3a19cb15859bd9bcbf62\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\40a5ac049582fc2b44b9af9b2060a84a\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\40a5ac049582fc2b44b9af9b2060a84a\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\2694d329373262e1d5d07235f1421bdd\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\2694d329373262e1d5d07235f1421bdd\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\1f670a95ccfade1cba086a4de2f389cc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\1f670a95ccfade1cba086a4de2f389cc\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\c5b398fecfb9f99ff9c5c1177a475c6e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\c5b398fecfb9f99ff9c5c1177a475c6e\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\9b59ab12ff2cf6ddfff3065340a0bf56\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\9b59ab12ff2cf6ddfff3065340a0bf56\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\fcfe10e7a781411b84014d8bff097533\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\fcfe10e7a781411b84014d8bff097533\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\01a60c1758118a4c4a2750c5eef44e0b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\01a60c1758118a4c4a2750c5eef44e0b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\d3ad1e935aa2270e6e7ae55cd7752b2a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\d3ad1e935aa2270e6e7ae55cd7752b2a\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0f5e832b92da87900caaa3efee8dcecc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0f5e832b92da87900caaa3efee8dcecc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\2afd19c1fe13c3b279a0a5e16eb51bc2\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\2afd19c1fe13c3b279a0a5e16eb51bc2\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\94f6b4c008ef045c4f2e0f86e0699927\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\94f6b4c008ef045c4f2e0f86e0699927\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\686a06c38898cab4c33f1f40d64b3174\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\686a06c38898cab4c33f1f40d64b3174\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\81cb794477e8186d43ca197869447d56\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\81cb794477e8186d43ca197869447d56\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\606af5b396f9428e8d62e29f7dc21631\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\606af5b396f9428e8d62e29f7dc21631\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\f9dad01cdc4336a25976c010e56ba601\transformed\feature-delivery-2.0.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\f9dad01cdc4336a25976c010e56ba601\transformed\feature-delivery-2.0.1\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\285e8a489064d86ba665bc4f2d4aa655\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\285e8a489064d86ba665bc4f2d4aa655\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
-MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\65ba9d66f598720d2be26bb8971ddbbb\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\65ba9d66f598720d2be26bb8971ddbbb\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\cc937eadaeb0c0ffbb379211eb47c257\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\cc937eadaeb0c0ffbb379211eb47c257\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\fced78abef1e06cc44b90dc0da6f6d06\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\fced78abef1e06cc44b90dc0da6f6d06\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\794dac8a66afe9dab47f32e168925d5a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\794dac8a66afe9dab47f32e168925d5a\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\f54477f88718935e5f0b52b2605c3ca4\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\f54477f88718935e5f0b52b2605c3ca4\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f6980ce487910f240a6ae651ca72cacf\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f6980ce487910f240a6ae651ca72cacf\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0350c78cb71081ad1e631d25f3d152cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0350c78cb71081ad1e631d25f3d152cd\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\eda6d36faa4507f2610db2f8b914146f\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\eda6d36faa4507f2610db2f8b914146f\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\b5c086ed3282cc462cf16e5f3a2a39d3\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\b5c086ed3282cc462cf16e5f3a2a39d3\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\6c7d48252c63929085f986690fe2699d\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\6c7d48252c63929085f986690fe2699d\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\ddb0b65a15277ea1a5f51750eec31537\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\ddb0b65a15277ea1a5f51750eec31537\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\da569f0a8c42bc12d35a9d8ebe7db325\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\da569f0a8c42bc12d35a9d8ebe7db325\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\ae9762d9e5cdf295faf747b9dcae48ea\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\ae9762d9e5cdf295faf747b9dcae48ea\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\51030ad6ab13d28be0df59ede82a6e0d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\51030ad6ab13d28be0df59ede82a6e0d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\8bb24e062508142a0e6cf6d42e8c145c\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\8bb24e062508142a0e6cf6d42e8c145c\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\226f619b947b8e53de930e0b9ea42bd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\226f619b947b8e53de930e0b9ea42bd5\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\cba0fb151d6e0c13415ea357e473a68a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\cba0fb151d6e0c13415ea357e473a68a\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\c5ef500dfe6cc12b96014373aa562cda\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\c5ef500dfe6cc12b96014373aa562cda\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5c64e87b3595ec03a9c7fe697b007d2a\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5c64e87b3595ec03a9c7fe697b007d2a\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\53c3ab4a91e7e458cd2854d7fba34a2e\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\53c3ab4a91e7e458cd2854d7fba34a2e\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\6edc7de7c7b6bf424298dc179471fea1\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\6edc7de7c7b6bf424298dc179471fea1\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.0.0-alpha06] C:\Users\Panchito\.gradle\caches\transforms-3\d8589cb800b0b113c2db6ab46a029bbe\transformed\ui-text-android-1.0.0-alpha06\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.compose.ui:ui-text-android:1.0.0-alpha06] C:\Users\Panchito\.gradle\caches\transforms-3\d8589cb800b0b113c2db6ab46a029bbe\transformed\ui-text-android-1.0.0-alpha06\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\7f8f2754b6f74961048ee3e9d4606b0b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\7f8f2754b6f74961048ee3e9d4606b0b\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\2c1521edf2dcac9fbf1437a2d73e6dba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\2c1521edf2dcac9fbf1437a2d73e6dba\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\264f05caa4925dd55f93c11745eb0a38\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\264f05caa4925dd55f93c11745eb0a38\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\057efaa34816c573f085aeaf9a03691f\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\057efaa34816c573f085aeaf9a03691f\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\892936ed6ea31511edcbd4b1bee53e2a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\892936ed6ea31511edcbd4b1bee53e2a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\a408ce5bbc5925fdd944e51a0fd246aa\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\a408ce5bbc5925fdd944e51a0fd246aa\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\735e150b6083f773f323ff3ac5df7af5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\735e150b6083f773f323ff3ac5df7af5\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\e54e2755581eb3d884eca4775b1fc8f3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\e54e2755581eb3d884eca4775b1fc8f3\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\ac51231769d68856b80594aced794b1a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\ac51231769d68856b80594aced794b1a\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\5b15d47518f2a809ea496f6d700addb1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\5b15d47518f2a809ea496f6d700addb1\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\330486b78dc7c88a659f932492389125\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\330486b78dc7c88a659f932492389125\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b74cb5652a2f2ead9a792f2de7644b6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b74cb5652a2f2ead9a792f2de7644b6\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\c5ec658faf2b98f812e539eacbdac157\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\c5ec658faf2b98f812e539eacbdac157\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\26da4182a57fc31d35c421be6a35fbcb\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:7.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\26da4182a57fc31d35c421be6a35fbcb\transformed\viewbinding-7.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\1d7ed1e0cea8575759309e463697affa\transformed\room-ktx-2.5.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-ktx:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\1d7ed1e0cea8575759309e463697affa\transformed\room-ktx-2.5.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:21:5-23:64
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Panchito\.gradle\caches\transforms-3\4c849d9ce7e5d736d09aa08521d1ab69\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Panchito\.gradle\caches\transforms-3\4c849d9ce7e5d736d09aa08521d1ab69\transformed\recaptcha-18.1.2\AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\fb0afb6a75a06e1bfd2d6edd7c3c4b3b\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\fb0afb6a75a06e1bfd2d6edd7c3c4b3b\transformed\navigation-common-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\1828daf069913e52d4d48263ff105b1f\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\1828daf069913e52d4d48263ff105b1f\transformed\navigation-common-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\a3ceb8dd58680f35dfeb1c8e2ef428aa\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\a3ceb8dd58680f35dfeb1c8e2ef428aa\transformed\navigation-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\c0f6a1d26bfd2624d34183222bea4912\transformed\navigation-dynamic-features-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-runtime:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\c0f6a1d26bfd2624d34183222bea4912\transformed\navigation-dynamic-features-runtime-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\8b44252560c4907ddc56a7201528c477\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\8b44252560c4907ddc56a7201528c477\transformed\navigation-ui-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\0191320257d0eb3a5e8b78e2edbfc35a\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\0191320257d0eb3a5e8b78e2edbfc35a\transformed\navigation-runtime-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\2027838558edd11b755eeaf0b22699ec\transformed\navigation-dynamic-features-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-dynamic-features-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\2027838558edd11b755eeaf0b22699ec\transformed\navigation-dynamic-features-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\15658812c498918db81455a44d48482a\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\15658812c498918db81455a44d48482a\transformed\navigation-ui-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6cfbe24aa7033ddcc72ef2541838878b\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\6cfbe24aa7033ddcc72ef2541838878b\transformed\navigation-fragment-ktx-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\3656d76f44243ece5e99f21e4c9986dc\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\3656d76f44243ece5e99f21e4c9986dc\transformed\navigation-fragment-2.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Panchito\.gradle\caches\transforms-3\10b0e72c7e6f7af6e5490f7196ffbbd5\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] C:\Users\Panchito\.gradle\caches\transforms-3\10b0e72c7e6f7af6e5490f7196ffbbd5\transformed\material-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\e8e211bc3f2ce1d6df09627ab779524f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\Panchito\.gradle\caches\transforms-3\e8e211bc3f2ce1d6df09627ab779524f\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\225624f41345d7fc7aba25bfd0283a0f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\225624f41345d7fc7aba25bfd0283a0f\transformed\appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\000fb163983d781e83a4dad77020ca6f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\000fb163983d781e83a4dad77020ca6f\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\8e69d94a4b19897d5797b0494de1a9a0\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\8e69d94a4b19897d5797b0494de1a9a0\transformed\glide-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\1fee5350b38e0d46af720b1e5ca0bc28\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\1fee5350b38e0d46af720b1e5ca0bc28\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\074ed2611768c38e79ec6551b581205d\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\074ed2611768c38e79ec6551b581205d\transformed\play-services-auth-api-phone-18.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Panchito\.gradle\caches\transforms-3\c864f979360dc91c2e48b5fae9d09efb\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.4] C:\Users\Panchito\.gradle\caches\transforms-3\c864f979360dc91c2e48b5fae9d09efb\transformed\play-services-auth-base-18.0.4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\14c1d58ae13111f97eaff2e53c038731\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\14c1d58ae13111f97eaff2e53c038731\transformed\play-services-fido-20.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\fd4215b040864d73098329a803b7201e\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\fd4215b040864d73098329a803b7201e\transformed\firebase-database-collection-18.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\c3700d1dd588b4daffd48964c24c2638\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\c3700d1dd588b4daffd48964c24c2638\transformed\firebase-appcheck-interop-17.0.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\484b85ab2f4d13260b928ae2f604934e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\484b85ab2f4d13260b928ae2f604934e\transformed\firebase-auth-interop-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\4147f2c5cf7380c2b4dda7e5d64381c7\transformed\feature-delivery-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:feature-delivery:2.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\4147f2c5cf7380c2b4dda7e5d64381c7\transformed\feature-delivery-2.0.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\976cfcde20abe91aad73b975f8bcacdf\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\976cfcde20abe91aad73b975f8bcacdf\transformed\integrity-1.1.0\AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\e4986de5b1e992f42ca7280c7dfc68d8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\e4986de5b1e992f42ca7280c7dfc68d8\transformed\play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\9c642d51b750d2147f9e222265706e60\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\9c642d51b750d2147f9e222265706e60\transformed\fragment-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\aad80de0556340e1219926f3274795e2\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\aad80de0556340e1219926f3274795e2\transformed\fragment-ktx-1.6.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5570d585e42e536b71eedb457011becd\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5570d585e42e536b71eedb457011becd\transformed\activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\e0988cd46ec655da642991b51f784bce\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\e0988cd46ec655da642991b51f784bce\transformed\activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\94ea63620b1a4a139645084ac8dbff4e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\94ea63620b1a4a139645084ac8dbff4e\transformed\emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\04cfddc479fbff1995420da121ae98c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\04cfddc479fbff1995420da121ae98c3\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\4fdd85a1992216cf81a3e22ce48d8cfe\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\4fdd85a1992216cf81a3e22ce48d8cfe\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\de2c4f43d09784245b842a7f71d50067\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\de2c4f43d09784245b842a7f71d50067\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\cda6af7c9721c9bb5b34a08482e3ceb2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\cda6af7c9721c9bb5b34a08482e3ceb2\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\382800e4bc9dcd55ef87c548611aa1d6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\382800e4bc9dcd55ef87c548611aa1d6\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\7dc75adb4b0ee53106de3b95f9c466a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\7dc75adb4b0ee53106de3b95f9c466a9\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\bc3f7152c8fc7170e3a4b4eb77c32f97\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\bc3f7152c8fc7170e3a4b4eb77c32f97\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\f41a24245079de1b24fe8325a5ca3902\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\f41a24245079de1b24fe8325a5ca3902\transformed\savedstate-ktx-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\a8e4a137c905c37fd9b934b00cfc432f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\a8e4a137c905c37fd9b934b00cfc432f\transformed\savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d41f227105474163887c55b13369e41c\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d41f227105474163887c55b13369e41c\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\83d07a8b1e755b91c8ed4416c8e44209\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\83d07a8b1e755b91c8ed4416c8e44209\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\38c88b04f7630ec066351bf164237d29\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\38c88b04f7630ec066351bf164237d29\transformed\lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\2b8f606f0c8359817836ce23856d6ad2\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\2b8f606f0c8359817836ce23856d6ad2\transformed\core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\f76c197d65fb150ef0c93c4ece04454d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\f76c197d65fb150ef0c93c4ece04454d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\39194a1845b651f8d42dbe49715a06fc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\39194a1845b651f8d42dbe49715a06fc\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\058849bd48decdc1196aec82876397ce\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\058849bd48decdc1196aec82876397ce\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\14b3d15df1979be3c9f28935f47b6485\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\14b3d15df1979be3c9f28935f47b6485\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Panchito\.gradle\caches\transforms-3\57b6741d9a36c4744a9b5e8f0a51c38e\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] C:\Users\Panchito\.gradle\caches\transforms-3\57b6741d9a36c4744a9b5e8f0a51c38e\transformed\browser-1.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\1cfb4158b1b1967c90f30e64817d0f8e\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\Panchito\.gradle\caches\transforms-3\1cfb4158b1b1967c90f30e64817d0f8e\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\7fcef40acc887185dd696012b36474cf\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\7fcef40acc887185dd696012b36474cf\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\cad9a537cca0652734ceb1af21009a97\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\cad9a537cca0652734ceb1af21009a97\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5cc29b99db4b4047ad02773ec3caed05\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\5cc29b99db4b4047ad02773ec3caed05\transformed\lifecycle-runtime-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\71c80753f80217fe8b23d4806422e8c0\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\71c80753f80217fe8b23d4806422e8c0\transformed\lifecycle-livedata-core-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\96a378c70e54ed8f0a5dcab148125f7a\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\96a378c70e54ed8f0a5dcab148125f7a\transformed\lifecycle-viewmodel-ktx-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\72b18e0d31c37bd8b955acb562c846a3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\72b18e0d31c37bd8b955acb562c846a3\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\cac1340c2c1e4d4b0f9ae12c0167e5e9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\cac1340c2c1e4d4b0f9ae12c0167e5e9\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Panchito\.gradle\caches\transforms-3\67b0ccc633d7b5dd8698373ee00846ff\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.3.1] C:\Users\Panchito\.gradle\caches\transforms-3\67b0ccc633d7b5dd8698373ee00846ff\transformed\sqlite-framework-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Panchito\.gradle\caches\transforms-3\856fd2ca0960edfbf1d3176c53f89434\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.3.1] C:\Users\Panchito\.gradle\caches\transforms-3\856fd2ca0960edfbf1d3176c53f89434\transformed\sqlite-2.3.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\e98bbf5d67b061594937df5bd54f4393\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-components:17.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\e98bbf5d67b061594937df5bd54f4393\transformed\firebase-components-17.1.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\29c2edad83194488c2337ef06624c2a2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.15.1] C:\Users\Panchito\.gradle\caches\transforms-3\29c2edad83194488c2337ef06624c2a2\transformed\gifdecoder-4.15.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\a1ab34759523d92e1a6f289634d16ad0\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\a1ab34759523d92e1a6f289634d16ad0\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\fbf49b11da9f974912cf97c4b3ee311c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\fbf49b11da9f974912cf97c4b3ee311c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\52a88dcf8b199f89eb7ee1e07765c059\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\52a88dcf8b199f89eb7ee1e07765c059\transformed\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\2bb77b4d61ce2d1f0f302d783342df86\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\2bb77b4d61ce2d1f0f302d783342df86\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f587aee147593f60be39e07e4423c7c3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\f587aee147593f60be39e07e4423c7c3\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\b34b5cdddc91bfee913f82a505b7f9d7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\b34b5cdddc91bfee913f82a505b7f9d7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\8b0cd0262095823c58b9a531bfce5d93\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\8b0cd0262095823c58b9a531bfce5d93\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0fe7b6a9f663ee2979387cda05621cba\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\0fe7b6a9f663ee2979387cda05621cba\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b12818cb397cd8a7d7be9e166ac07ed\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b12818cb397cd8a7d7be9e166ac07ed\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\e26ebca2627271cfc3b26aeeeeba4851\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\e26ebca2627271cfc3b26aeeeeba4851\transformed\annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Panchito\.gradle\caches\transforms-3\b90a9d522454d6ee82605864bea570e2\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Panchito\.gradle\caches\transforms-3\b90a9d522454d6ee82605864bea570e2\transformed\grpc-android-1.52.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\082ac48515e4bd9a9bf2ca3bc53fa84b\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\082ac48515e4bd9a9bf2ca3bc53fa84b\transformed\protolite-well-known-types-18.0.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:7:5-9:41
 INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:23:9-61
 	android:targetSdkVersion
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
@@ -333,121 +475,317 @@ INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 		ADDED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Panchito\Desktop\OnePieceEC03NavarroInfante\app\src\main\AndroidManifest.xml
-provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\892936ed6ea31511edcbd4b1bee53e2a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\892936ed6ea31511edcbd4b1bee53e2a\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
-	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
-	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:24:9-28:63
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\ed5c533cc70e7b3b025c1d493dfcade0\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-meta-data#com.google.android.gms.version
-ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
-	android:value
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:23:13-66
-	android:name
-		ADDED from [com.google.android.gms:play-services-basement:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\9bcb60557a38ced9cd58de41b48ed34f\transformed\play-services-basement-18.1.0\AndroidManifest.xml:22:13-58
-meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\8496ad6fc3106366db9a7578fe6073d8\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
-uses-library#androidx.window.extensions
-ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
-	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
-	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
-uses-library#androidx.window.sidecar
-ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
-	android:required
-		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
-	android:name
-		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\80a9680649d591ce6d4f0c4476d3d5b1\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-permission#com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
-	android:protectionLevel
-		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
-	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
-uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
-uses-permission#com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
-	android:name
-		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\256c6597bc3e6f8192abd6f9b27a26ab\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
-meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
-	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
-receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
-	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
-	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
-	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:28:13-60
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:26:13-43
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
-intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
-action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
-intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
-action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
-intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
-action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
-intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
-action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
-	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\05f257b4cf3b93f36e6420d3f112121a\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
-activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
-ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:14:9-18:65
-	android:stateNotNeeded
-		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:17:13-42
+		ADDED from [androidx.room:room-runtime:2.5.2] C:\Users\Panchito\.gradle\caches\transforms-3\15b30097916be25f618e42b4404a3459\transformed\room-runtime-2.5.2\AndroidManifest.xml:25:13-74
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:8:9-14:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:11:9-17:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:32:9-36:35
 	android:exported
-		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:16:13-37
-	android:theme
-		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:18:13-62
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:13:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:34:13-43
 	android:name
-		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\d6aa7335756ab52093ba1986c9ff6d5b\transformed\core-common-2.0.2\AndroidManifest.xml:15:13-93
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:12:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.ktx.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage-ktx:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\3c6431749d0552f4dfbf2652b529f689\transformed\firebase-storage-ktx-20.2.1\AndroidManifest.xml:15:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.ktx.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore-ktx:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\09e0985aead056a4938df04983624641\transformed\firebase-firestore-ktx-24.7.0\AndroidManifest.xml:15:17-126
+meta-data#com.google.firebase.components:com.google.firebase.auth.ktx.FirebaseAuthKtxRegistrar
+ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:11:13-13:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:13:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth-ktx:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\9fa1e7afe3a7d93c567a75f9e323df30\transformed\firebase-auth-ktx-22.1.1\AndroidManifest.xml:12:17-116
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\ddd1ef4f036bc8e9349c59801d28126d\transformed\firebase-common-ktx-20.3.3\AndroidManifest.xml:15:17-113
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Panchito\.gradle\caches\transforms-3\4c849d9ce7e5d736d09aa08521d1ab69\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.1.2] C:\Users\Panchito\.gradle\caches\transforms-3\4c849d9ce7e5d736d09aa08521d1ab69\transformed\recaptcha-18.1.2\AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:25:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Panchito\.gradle\caches\transforms-3\b90a9d522454d6ee82605864bea570e2\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.52.1] C:\Users\Panchito\.gradle\caches\transforms-3\b90a9d522454d6ee82605864bea570e2\transformed\grpc-android-1.52.1\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:26:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:22.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\1d887de04c89fa51341cae529b98eb44\transformed\firebase-auth-22.1.1\AndroidManifest.xml:70:17-109
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Panchito\.gradle\caches\transforms-3\db5e5dfd1ed6e24f31dc6d33aca24da1\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:20.6.0] C:\Users\Panchito\.gradle\caches\transforms-3\10f9d15bbdc633bd94f7d0c9bab299c6\transformed\play-services-auth-20.6.0\AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.7.0] C:\Users\Panchito\.gradle\caches\transforms-3\7c206021509614fb01935588a06ab3a1\transformed\firebase-firestore-24.7.0\AndroidManifest.xml:20:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.2.1] C:\Users\Panchito\.gradle\caches\transforms-3\c7fcbf41e380e205907de5b10970aaa1\transformed\firebase-storage-20.2.1\AndroidManifest.xml:33:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Panchito\.gradle\caches\transforms-3\382f42f7060d07dc0740b68af199d662\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.3.3] C:\Users\Panchito\.gradle\caches\transforms-3\d63b2feaae4239244b81ae105b327348\transformed\firebase-common-20.3.3\AndroidManifest.xml:26:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\6d572655412364cdcc5086e9f6805aa4\transformed\play-services-basement-18.2.0\AndroidManifest.xml:22:13-58
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\fbf49b11da9f974912cf97c4b3ee311c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\Panchito\.gradle\caches\transforms-3\fbf49b11da9f974912cf97c4b3ee311c\transformed\startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\Panchito\.gradle\caches\transforms-3\4b2835108cce1b8475bc57764d8d3b40\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\Panchito\.gradle\caches\transforms-3\d245dad9d6a664e30580fd65141d19e4\transformed\lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\Panchito\.gradle\caches\transforms-3\e10783431fcd7bdbf5d9073af41d81bb\transformed\window-1.0.0\AndroidManifest.xml:29:13-51
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.francisco.onepieceec03navarroinfante.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\Panchito\.gradle\caches\transforms-3\5ee361108b6d7813e07ee025f31c2b2a\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\Panchito\.gradle\caches\transforms-3\68094781e89229bf339e86ff976c1fcb\transformed\profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+activity#com.google.android.play.core.common.PlayCoreDialogWrapperActivity
+ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:14:9-18:65
+	android:stateNotNeeded
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:17:13-42
+	android:exported
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:16:13-37
+	android:theme
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:18:13-62
+	android:name
+		ADDED from [com.google.android.play:core-common:2.0.2] C:\Users\Panchito\.gradle\caches\transforms-3\c88bcb7c3839c8e3b78d8601c9e5f81e\transformed\core-common-2.0.2\AndroidManifest.xml:15:13-93

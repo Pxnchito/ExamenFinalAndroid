@@ -9,7 +9,11 @@
         android:id="@+id/onePieceDetailFragment"
         android:name="com.francisco.onepieceec03navarroinfante.views.fragments.OnePieceDetailFragment"
         android:label="fragment_one_piece_detail"
-        tools:layout="@layout/fragment_one_piece_detail" />
+        tools:layout="@layout/fragment_one_piece_detail" >
+        <argument
+            android:name="onepiece"
+            app:argType="com.francisco.onepieceec03navarroinfante.model.OnePiece" />
+    </fragment>
     <fragment
         android:id="@+id/onePieceFavoriteFragment"
         android:name="com.francisco.onepieceec03navarroinfante.views.fragments.OnePieceFavoriteFragment"
@@ -29,8 +33,17 @@
             app:destination="@id/onePieceDetailFragment" />
     </fragment>
     <fragment
-        android:id="@+id/onePieceListViewModel"
-        android:name="com.francisco.onepieceec03navarroinfante.views.fragments.OnePieceListViewModel"
-        android:label="fragment_one_piece_list_view_model"
-        tools:layout="@layout/fragment_one_piece_list_view_model" />
+        android:id="@+id/infoFragment"
+        android:name="com.francisco.onepieceec03navarroinfante.views.fragments.InfoFragment"
+        android:label="fragment_info"
+        tools:layout="@layout/fragment_info" >
+        <action
+            android:id="@+id/action_infoFragment_to_onePieceDetailFragment"
+            app:destination="@id/onePieceDetailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/firebaseFragment"
+        android:name="com.francisco.onepieceec03navarroinfante.views.fragments.FirebaseFragment"
+        android:label="fragment_firebase"
+        tools:layout="@layout/fragment_firebase" />
 </navigation>

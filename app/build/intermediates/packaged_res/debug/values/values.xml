@@ -63,17 +63,26 @@
     <color name="seed">#1261a4</color>
     <dimen name="fab_margin">16dp</dimen>
     <string name="app_name">OnePiece</string>
+    <string name="default_web_client_id" translatable="false">843484489456-ut809m622vp3meigcsupaph0505p048c.apps.googleusercontent.com</string>
     <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">843484489456</string>
+    <string name="google_api_key" translatable="false">AIzaSyA-471kkh_irAr0mokSjg4anpCV6WBBfi8</string>
+    <string name="google_app_id" translatable="false">1:843484489456:android:309b0ceaf1ff06680f4435</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA-471kkh_irAr0mokSjg4anpCV6WBBfi8</string>
+    <string name="google_storage_bucket" translatable="false">onepiece-14cf3.appspot.com</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="lorem_ipsum">
     </string>
     <string name="next">Next</string>
     <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">onepiece-14cf3</string>
     <string name="second_fragment_label">Second Fragment</string>
+    <string name="title_activity_add_one_piece">AddOnePieceActivity</string>
     <string name="title_activity_login">LoginActivity</string>
     <string name="title_activity_main2">MainActivity2</string>
-    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_splash_screen">OnePiece</string>
     <string name="version">Version 1.0.0</string>
+    <string name="web_cliente_id">109866834716444272255</string>
     <style name="Base.Theme.OnePieceEC03NavarroInfante" parent="Theme.Material3.DayNight.NoActionBar">
         <item name="colorPrimary">@color/md_theme_light_primary</item>
         <item name="colorOnPrimary">@color/md_theme_light_onPrimary</item>
